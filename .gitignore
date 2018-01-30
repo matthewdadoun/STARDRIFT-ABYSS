@@ -45,4 +45,6 @@ project.xcworkspace
 
 # IPCH
 *.ipch
+*.pdb
+*.VC.db
 HEXACOM/HEXACOM/cocos2d/
