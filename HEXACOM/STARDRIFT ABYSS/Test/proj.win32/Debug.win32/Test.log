@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿  AppDelegate.cpp
   DisplayHandler.cpp
   HelloWorldScene.cpp
@@ -7,4 +8,7 @@ AppDelegate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH'
      Creating library C:\Users\100655094\Desktop\STARDRIFT ABYSS\HEXACOM\STARDRIFT ABYSS\Test\proj.win32\Debug.win32\Test.lib and object C:\Users\100655094\Desktop\STARDRIFT ABYSS\HEXACOM\STARDRIFT ABYSS\Test\proj.win32\Debug.win32\Test.exp
   Test.vcxproj -> C:\Users\100655094\Desktop\STARDRIFT ABYSS\HEXACOM\STARDRIFT ABYSS\Test\proj.win32\Debug.win32\Test.exe
   Test.vcxproj -> C:\Users\100655094\Desktop\STARDRIFT ABYSS\HEXACOM\STARDRIFT ABYSS\Test\proj.win32\Debug.win32\Test.pdb (Full PDB)
+=======
+﻿  Test.vcxproj -> C:\Users\100662523\Desktop\STARDRIFT-ABYSS\HEXACOM\STARDRIFT ABYSS\Test\proj.win32\Debug.win32\Test.exe
+>>>>>>> f98aecf85c2ee915563465dbc25a55524f0f8255
   0 File(s) copied
