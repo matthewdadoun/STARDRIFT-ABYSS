@@ -4,6 +4,7 @@
   InputHandler.cpp
   main.cpp
 AppDelegate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
-     Creating library C:\Users\100662523\Desktop\STARDRIFT ABYSS\Test\proj.win32\Debug.win32\Test.lib and object C:\Users\100662523\Desktop\STARDRIFT ABYSS\Test\proj.win32\Debug.win32\Test.exp
-  Test.vcxproj -> C:\Users\100662523\Desktop\STARDRIFT ABYSS\Test\proj.win32\Debug.win32\Test.exe
+     Creating library C:\Users\100655094\Desktop\STARDRIFT ABYSS\HEXACOM\STARDRIFT ABYSS\Test\proj.win32\Debug.win32\Test.lib and object C:\Users\100655094\Desktop\STARDRIFT ABYSS\HEXACOM\STARDRIFT ABYSS\Test\proj.win32\Debug.win32\Test.exp
+  Test.vcxproj -> C:\Users\100655094\Desktop\STARDRIFT ABYSS\HEXACOM\STARDRIFT ABYSS\Test\proj.win32\Debug.win32\Test.exe
+  Test.vcxproj -> C:\Users\100655094\Desktop\STARDRIFT ABYSS\HEXACOM\STARDRIFT ABYSS\Test\proj.win32\Debug.win32\Test.pdb (Full PDB)
   0 File(s) copied
