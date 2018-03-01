@@ -104,7 +104,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
 */
 	Director* director = Director::getInstance();
 
-	DISPLAY->init(1280.0f, 720.0f, "STARDRIFT ABYSS", false); //Can make window bigger or smaller
+	DISPLAY->init(1366, 768.0f, "Stardrift Abyss", false); //Can make window bigger or smaller
 
 	Scene* scene = Game::createScene();
 	director->runWithScene(scene);

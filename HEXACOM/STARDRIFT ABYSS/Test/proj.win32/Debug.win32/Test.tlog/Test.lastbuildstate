@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v141_xp:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=7.0
-Debug|Win32|C:\Users\100655094\Desktop\STARDRIFT ABYSS\HEXACOM\STARDRIFT ABYSS\Test\proj.win32\|
-=======
 #TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.15063.0
-Debug|Win32|C:\Users\100662523\Desktop\STARDRIFT-ABYSS\HEXACOM\STARDRIFT ABYSS\Test\proj.win32\|
->>>>>>> f98aecf85c2ee915563465dbc25a55524f0f8255
+Debug|Win32|C:\Users\100656592\Documents\GDWII Game\Stardrift Abyss_ Rebuilt\proj.win32\|
